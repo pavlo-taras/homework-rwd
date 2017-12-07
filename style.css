@@ -1,6 +1,7 @@
 body {
-    height: 100vh;
     width: 100%;
+    height: 100vh;
+    max-height: 1415px;
 
     padding: 0;
     margin: 0;
