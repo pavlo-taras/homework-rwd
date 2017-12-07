@@ -136,7 +136,7 @@ main {
 }
 
 footer {
-    background: green;
+    background: #00D169;
     flex: 67;
     min-width: 375px;
 }
