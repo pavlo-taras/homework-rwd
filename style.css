@@ -86,7 +86,6 @@ main {
    width: auto;
    max-width: 988px;
    flex: auto;
-   background-color: brown;
 
    display: flex;
    flex-flow: row wrap;
